@@ -4,12 +4,12 @@ const fs = require('fs')
 const { color } = require('./lib/myfunc')
 
 //owner
-global.owner = '2347043759577'
-global.nomerowner = ["2347043759577"]
+global.owner = '2347038494997'
+global.nomerowner = ["2347038494997"]
 
 // Apikey 
 
-global.skizo = 'David Cyril'
+global.skizo = 'GREY-HEART-TECH'
 global.casterix = 'DeeCeeXxx'
 //watermark 
 global.packname = '*DAVID CYRIL*'
